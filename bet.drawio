@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T22:26:40.944Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JovMZSMLPoT8HN6U0-yf" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T22:28:25.967Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="dQ7YFvkr42xpNZjEohnQ" version="22.0.8" type="github">
   <diagram name="Page-1" id="DR3L-FOkMYrlr2p97ex0">
     <mxGraphModel dx="1876" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,6 +42,15 @@
         </mxCell>
         <mxCell id="NTPOKOpAGO5fMDEsrDxL-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Непонятно, как решить проблему неактуальных коэффициентов при приеме ставки в случае разрыва связи&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="670" width="510" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NTPOKOpAGO5fMDEsrDxL-16" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NTPOKOpAGO5fMDEsrDxL-17" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NTPOKOpAGO5fMDEsrDxL-18" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="300" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
