@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T22:19:57.874Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zT_hGqaYqDuxNTYyPWg6" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T22:20:09.858Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="DIvJkLLXhsHje_2xvCZa" version="22.0.8" type="github">
   <diagram name="Page-1" id="DR3L-FOkMYrlr2p97ex0">
     <mxGraphModel dx="1026" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="NTPOKOpAGO5fMDEsrDxL-6" value="Bet" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="390" y="390" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NTPOKOpAGO5fMDEsrDxL-7" value="Казино. Ставки на спорт." style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
