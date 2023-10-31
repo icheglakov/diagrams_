@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T22:16:06.272Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="O8wNiOMcs6Gn7rAUmBBw" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T22:19:34.921Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="R82dDoq8La3G0LUo0K7v" version="22.0.8" type="github">
   <diagram name="Page-1" id="DR3L-FOkMYrlr2p97ex0">
     <mxGraphModel dx="1026" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,6 +9,18 @@
         </mxCell>
         <mxCell id="NTPOKOpAGO5fMDEsrDxL-2" value="Score" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="120" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NTPOKOpAGO5fMDEsrDxL-3" value="&lt;ul&gt;&lt;li&gt;Value 1&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="250" y="400" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NTPOKOpAGO5fMDEsrDxL-4" value="Score" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NTPOKOpAGO5fMDEsrDxL-5" value="&lt;ul&gt;&lt;li&gt;Value 1&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NTPOKOpAGO5fMDEsrDxL-6" value="Score" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
