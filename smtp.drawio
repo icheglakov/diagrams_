@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T21:34:00.275Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="QSG2cPWE__xXB5X3Q46L" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T21:34:20.167Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="wupAd8IdhOHbn1pvCSv8" version="22.0.8" type="github">
   <diagram name="Page-1" id="WgAlQqyZzCUHRBC_JyW_">
     <mxGraphModel dx="1140" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,27 +33,6 @@
         </mxCell>
         <mxCell id="RyrGZW9c7uoxQgayMa2L-20" value="Recepient" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="740" y="430" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RyrGZW9c7uoxQgayMa2L-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="440" as="sourcePoint" />
-            <mxPoint x="470" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RyrGZW9c7uoxQgayMa2L-24" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="RyrGZW9c7uoxQgayMa2L-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RyrGZW9c7uoxQgayMa2L-25" value="Source" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="RyrGZW9c7uoxQgayMa2L-23">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RyrGZW9c7uoxQgayMa2L-26" value="Target" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="RyrGZW9c7uoxQgayMa2L-23">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RyrGZW9c7uoxQgayMa2L-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="RyrGZW9c7uoxQgayMa2L-10" target="RyrGZW9c7uoxQgayMa2L-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="460" as="sourcePoint" />
-            <mxPoint x="410" y="410" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
