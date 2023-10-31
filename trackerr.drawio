@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T21:40:29.182Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="pZbr9PhM3l8fQyy2-QO7" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T21:47:33.489Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_e8l7G8tZM6T33y_zKIJ" version="22.0.8" type="github">
   <diagram name="Page-1" id="WVwOdAb5zhcnuu6RC09V">
-    <mxGraphModel dx="1026" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,37 @@
           <mxGeometry x="60" y="245" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rte8B5SLybQbvSbR3UiM-3" value="NGINX" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="225" width="80" height="80" as="geometry" />
+          <mxGeometry x="425" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rte8B5SLybQbvSbR3UiM-4" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="290" y="750" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rte8B5SLybQbvSbR3UiM-5" value="DB" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="840" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rte8B5SLybQbvSbR3UiM-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="710" y="750" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rte8B5SLybQbvSbR3UiM-7" value="FS" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="690" y="830" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rte8B5SLybQbvSbR3UiM-10" value="Users" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="960" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rte8B5SLybQbvSbR3UiM-11" value="&lt;ul&gt;&lt;li&gt;id&lt;/li&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="320" y="990" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rte8B5SLybQbvSbR3UiM-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rte8B5SLybQbvSbR3UiM-14" value="Frontend app" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rte8B5SLybQbvSbR3UiM-15" value="&lt;ul&gt;&lt;li&gt;Value 1&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="130" y="960" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rte8B5SLybQbvSbR3UiM-16" value="Torrent Data" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="910" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
